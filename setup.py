@@ -12,7 +12,7 @@ setup(
     url = "http://bleu.west.spy.net/~dustin/",
     description = "A twisted interface to gearman.",
     license="Unknown",
-    packages = ["gearman"],
+    packages = ["txgearman"],
     classifiers = [
         "Framework :: Twisted",
         "Intended Audience :: Developers",
